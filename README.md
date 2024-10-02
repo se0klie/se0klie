@@ -17,7 +17,7 @@ Estudiante de Computación en ESPOL.
   <li>Python.</li>
   <li>HTML</li>
 </ul>
----
+
 ## Certificaciones recibidas.
 - Udemy HTML course 2023.
 ## Certificaciones en desarrollo.
