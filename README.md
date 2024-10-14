@@ -1,6 +1,12 @@
-## hi! i'm Hailie, an entusiast in computer science and always open to learn!
+## hi! i'm Hailie ✮⋆˙
+... enthusiast about web & mobile Apps development and always learning! ! 20 yo student in Computer Science, @ espol && eng / esp speaker
 
-Student of Computer Science, @ espol.
+## some projects 😴
+<ol>
+  <li><a href="https://github.com/se0klie/programaEncriptadorAESBLOWFISH">Programa</a> encriptador/desencriptador de BLOWFISH y AES en C.</li>
+  <li><a href="https://github.com/se0klie/AkinatorJavaVer">Akinator</a> fresquito sacado de Java.</li>
+  <li><a href="https://github.com/se0klie/colorStack">ColorStack!</a> Programa generador de paletas de colores, utilizando el paquete NPM y APIs</li>
+</ol>
 
 ## Ma' Skills
 
@@ -29,7 +35,7 @@ Student of Computer Science, @ espol.
 </p>
 
 ## Let's see...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0klie)](https://github.com/se0klie/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0klie&theme=omni)](https://github.com/se0klie/github-readme-stats)
 
 <h3 align="left">Reach me!</h3>
 <p align="left">
