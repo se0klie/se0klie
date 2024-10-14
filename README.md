@@ -1,12 +1,20 @@
 ## hi! i'm Hailie ✮⋆˙
 ... enthusiast about web & mobile Apps development and always learning! ! 20 yo student in Computer Science, @ espol && eng / esp speaker
 
+## facts ? if curious 
+<ul>
+  <li>🪷 My very first introduction to computer science was javascript</li>
+  <li>🍄 I was chosen & participated in PyWeekend @ Espol!</li>
+  <li>🦅 Always open to new & innovative projects.</li>
+  <li>🪼 I'm currently trying out svelte</li>
+</ul>
+
 ## some projects 😴
-<ol>
+<ul>
   <li><a href="https://github.com/se0klie/programaEncriptadorAESBLOWFISH">Programa</a> encriptador/desencriptador de BLOWFISH y AES en C.</li>
   <li><a href="https://github.com/se0klie/AkinatorJavaVer">Akinator</a> fresquito sacado de Java.</li>
   <li><a href="https://github.com/se0klie/colorStack">ColorStack!</a> Programa generador de paletas de colores, utilizando el paquete NPM y APIs</li>
-</ol>
+</ul>
 
 ## Ma' Skills
 
