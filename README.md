@@ -1,19 +1,19 @@
 ## hi! i'm Hailie ✮⋆˙
-... enthusiast about web & mobile Apps development and always learning! ! 20 yo student in Computer Science, @ espol && eng / esp speaker
+... enthusiast about web & mobile Apps development, Operating Systems, IA, Cybersecurity and always learning! ! 20 yo student in Computer Science, @ espol && eng / spa speaker
 
 ## facts ? if curious 
 <ul>
   <li>🪷 My very first introduction to computer science was javascript</li>
-  <li>🍄 I was chosen & participated in PyWeekend @ Espol!</li>
+  <li>🍄 I was chosen & participated in PyWeekend @ Espol! A contest to show your skills in pythons as a first semester student</li>
   <li>🦅 Always open to new & innovative projects.</li>
-  <li>🪼 I'm currently trying out svelte</li>
+  <li>🪼 I'm currently trying out Django and learning about AI</li>
 </ul>
 
 ## some projects 😴
 <ul>
-  <li><a href="https://github.com/se0klie/programaEncriptadorAESBLOWFISH">Programa</a> encriptador/desencriptador de BLOWFISH y AES en C.</li>
-  <li><a href="https://github.com/se0klie/AkinatorJavaVer">Akinator</a> fresquito sacado de Java.</li>
-  <li><a href="https://github.com/se0klie/colorStack">ColorStack!</a> Programa generador de paletas de colores, utilizando el paquete NPM y APIs</li>
+  <li><a href="https://github.com/se0klie/programaEncriptadorAESBLOWFISH">Encryption program</a> with BLOWFISH and AES programmed in C.</li>
+  <li><a href="https://github.com/se0klie/AkinatorJavaVer">Akinator</a> fresh out of java.</li>
+  <li><a href="https://github.com/se0klie/colorStack">ColorStack!</a> My very first website that shows a color palette based in different options.</li>
 </ul>
 
 ## Ma' Skills
