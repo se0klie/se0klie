@@ -14,6 +14,8 @@
   <li><a href="https://github.com/se0klie/programaEncriptadorAESBLOWFISH">Encryption program</a> with BLOWFISH and AES programmed in C.</li>
   <li><a href="https://github.com/se0klie/AkinatorJavaVer">Akinator</a> fresh out of java.</li>
   <li><a href="https://github.com/se0klie/colorStack">ColorStack!</a> My very first website that shows a color palette based in different options.</li>
+  <li><a href="https://github.com/se0klie/dashboard">Dashboard project!</a> A weather dashboard for my web development class</li>
+
 </ul>
 
 ## Ma' Skills
