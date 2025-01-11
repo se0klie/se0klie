@@ -3,7 +3,7 @@
 
 ## facts ? if curious 
 <ul>
-  <li>🪷 My very first introduction to computer science was javascript</li>
+  <li>🪷 My very first introduction to computer science was javascript an artificial neuronal networks</li>
   <li>🍄 I was chosen & participated in PyWeekend @ Espol! A contest to show your skills in pythons as a first semester student</li>
   <li>🦅 Always open to new & innovative projects.</li>
   <li>🪼 I'm currently trying out Django and learning about AI</li>
