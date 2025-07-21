@@ -1,5 +1,5 @@
 ## hi! i'm Hailie ✮⋆˙
-... enthusiast about web & mobile Apps development, Operating Systems, IA, Cybersecurity and always learning! ! 20 yo student in Computer Science, @ espol && eng / spa speaker
+... enthusiast about web & mobile Apps development, Operating Systems, AI, Cybersecurity and always learning! ! 21 yo student in Computer Science, @ espol && eng / spa speaker
 
 ## facts ? if curious 
 <ul>
