@@ -6,7 +6,7 @@
   <li>🪷 My very first introduction to computer science was javascript and artificial neuronal networks</li>
   <li>🍄 I was chosen & participated in PyWeekend @ Espol! A contest to show your skills in pythons as a first semester student</li>
   <li>🦅 Currently on web development area.</li>
-  <li>🪼 Gladly working with Solinal! </li>
+  <li>🪼 Gladly working freelancer! </li>
 </ul>
 
 ## some projects 😴
