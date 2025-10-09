@@ -3,10 +3,10 @@
 
 ## facts ? if curious 
 <ul>
-  <li>🪷 My very first introduction to computer science was javascript and artificial neuronal networks</li>
-  <li>🍄 I was chosen & participated in PyWeekend @ Espol! A contest to show your skills in pythons as a first semester student</li>
-  <li>🦅 Currently on web development area.</li>
-  <li>🪼 Gladly working freelancer! </li>
+  <li> I was chosen & participated in PyWeekend @ Espol! A contest to show your skills in pythons as a first semester student</li>
+  <li> Currently on web development area.</li>
+  <li> Gladly working freelancer! </li>
+  <li> My team and I won 2nd place on Nasa Space Apps 2025 developing a learning model able to predict exoplanets and a 3D visualizer using Celestia App and Cesium JS library! </li>
 </ul>
 
 ## some projects 😴
@@ -15,6 +15,7 @@
   <li><a href="https://github.com/se0klie/AkinatorJavaVer">Akinator</a> fresh out of java.</li>
   <li><a href="https://github.com/se0klie/colorStack">ColorStack!</a> My very first website that shows a color palette based in different options.</li>
   <li><a href="https://github.com/se0klie/dashboard">Dashboard project!</a> A weather dashboard for my web development class</li>
+  <li><a href="https://github.com/Jonthz/CelestiaWeb">Exoplanets project</a> Be able to visualize and learn more about exoplanets, compare their size's and get our model's stats!</li>
 
 </ul>
 
