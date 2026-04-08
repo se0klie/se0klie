@@ -1,55 +1,67 @@
 ## hi! i'm Hailie ✮⋆˙
-... enthusiast about web & mobile Apps development, Operating Systems, AI, Cybersecurity and always learning! ! 21 yo student in Computer Science, @ espol && eng / spa speaker
 
-## facts ? if curious 
-<ul>
-  <li> I was chosen & participated in PyWeekend @ Espol! A contest to show your skills in pythons as a first semester student</li>
-  <li> Currently on web development area.</li>
-  <li> Gladly working freelancer! </li>
-  <li> My team and I won 2nd place on Nasa Space Apps 2025 developing a learning model able to predict exoplanets and a 3D visualizer using Celestia App and Cesium JS library! </li>
-</ul>
+passionate about **Web & Mobile Development**, **Operating Systems**, **AI**, and **Cybersecurity** — and always learning! 21 y/o CS student @ ESPOL · 🇬🇧 eng / 🇪🇸 spa
+
+---
+
+## facts? if curious ⋆.ೃ࿔*:･
+
+- 🏆 **2nd place @ NASA Space Apps 2025** — built an ML model to predict exoplanets + a 3D visualizer using Celestia & CesiumJS
+- 🐍 Selected to compete in **PyWeekend @ ESPOL** — a Python challenge for first-semester students
+- 💻 Currently focused on **full-stack web development**, working end-to-end from DB design to frontend
+- 🤝 Open for **freelance** projects!
+
+---
 
 ## some projects 😴
-<ul>
-  <li><a href="https://github.com/se0klie/programaEncriptadorAESBLOWFISH">Encryption program</a> with BLOWFISH and AES programmed in C.</li>
-  <li><a href="https://github.com/se0klie/AkinatorJavaVer">Akinator</a> fresh out of java.</li>
-  <li><a href="https://github.com/se0klie/colorStack">ColorStack!</a> My very first website that shows a color palette based in different options.</li>
-  <li><a href="https://github.com/se0klie/dashboard">Dashboard project!</a> A weather dashboard for my web development class</li>
-  <li><a href="https://github.com/Jonthz/CelestiaWeb">Exoplanets project</a> Be able to visualize and learn more about exoplanets, compare their size's and get our model's stats!</li>
 
-</ul>
+| Project | Description |
+|---|---|
+| [🔐 AES/Blowfish Encryptor](https://github.com/se0klie/programaEncriptadorAESBLOWFISH) | Encryption program using AES & Blowfish, written in C |
+| [🧠 Akinator (Java)](https://github.com/se0klie/AkinatorJavaVer) | Classic Akinator game built in Java |
+| [🎨 ColorStack](https://github.com/se0klie/colorStack) | My first website — generates color palettes from user options |
+| [🌦️ Weather Dashboard](https://github.com/se0klie/dashboard) | A weather dashboard built for my web dev class |
+| [🪐 Exoplanets Visualizer](https://github.com/Jonthz/CelestiaWeb) | Visualize & compare exoplanets, explore ML prediction stats |
 
-## My Skills
+---
 
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" /> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-  </a>
-  <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
-  </a>
-</p>
+## skills & tools 🛠️
 
-## Let's see the stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0klie&theme=omni)](https://github.com/se0klie/github-readme-stats)
+**Languages**
 
-<h3 align="left">Reach me!</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hailie-jiménez-5b92822b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hailie-jimenez" height="30" width="40" /></a>
-<a href="https://www.instagram.com/seoklie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seoklie" height="30" width="40" /></a>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**CS Knowledge**
+
+`Data Structures & Algorithms` · `OOP` · `Design Patterns` · `Software Engineering` · `Operating Systems`
+
+---
+
+## github stats 📊
+
+[![Hailie's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0klie&theme=omni)](https://github.com/se0klie/github-readme-stats)
+
+---
+
+## reach me! 🌐
+
+<a href="https://www.linkedin.com/in/hailie-jiménez-5b92822b3/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/seoklie/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
