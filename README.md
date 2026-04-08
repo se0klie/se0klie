@@ -78,12 +78,6 @@ passionate about **Web & Mobile Development**, **Operating Systems**, **AI**, an
 
 ---
 
-## github stats 📊
-
-[![Hailie's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0klie&theme=omni)](https://github.com/se0klie/github-readme-stats)
-
----
-
 ## contact 🌐
 
 <a href="https://www.linkedin.com/in/hailie-jiménez-5b92822b3/" target="blank">
