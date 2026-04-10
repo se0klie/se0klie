@@ -38,6 +38,7 @@ passionate about **Web & Mobile Development**, **Operating Systems**, **AI**, an
 |---|---|
 | [🔐 AES/Blowfish Encryptor](https://github.com/se0klie/programaEncriptadorAESBLOWFISH) | Encryption program using AES & Blowfish, written in C |
 | [🪐 Exoplanets Visualizer](https://github.com/Jonthz/CelestiaWeb) | Visualize & compare exoplanets, explore ML prediction stats |
+| [🏫 Buscador de exámenes y profesores recomendados para ESPOL](https://examvault-espol.vercel.app/) | A modern and optimized platform for the agile consultation of ESPOL academic resources and top recommended teachers for classes, which transforms complex DSpace and CENACAD data into a fast user experience. |
 ---
 ## skills & tools 🛠️
 
